@@ -55,4 +55,6 @@ Debian VPS with 2 core, 4 GB RAM, and 100 GB SSD, and at least 10 Mbps connectio
 
 Actual requirements depends on what you browse, but the above should give good performance on a range of real-world browsing tasks. If you need better performance, use better hardware.
 
+To reduce any lag and increase framerate, locate the server as close to you as physically possible. The longer the link round-trip time, the more lag will be introduced: this is because remote browser isolation is essentially a real-time interactive video streaming application, so **RTT matters!**
+
 
